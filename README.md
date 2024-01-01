@@ -1,7 +1,7 @@
 # Zomato_analyst_project
 Hello, connections,
 Here I am presenting to you my internship project which is based on India's popular Food delivery apps I.e "ZOMATO"
-we know, Founded in 2008 Zomato is a major food delivery aggregator with a markdown cap of 1 Trillion INR. It started as Foodiebay, a restaurant recommendation product, at its peak, it has 35000 menus and Rs 60 Lakh monthly revenue. Foodiebay.com reroutes to zomato.com now. Zomato Kitchens under the banner of Zomato Infrastructure Services provides cloud kitchens to the best and most reliable restaurants only. It provides kitchen equipment, tech stack, POS, delivery, and tracking systems.
+we know, Founded in 2008 Zomato is a major food delivery aggregator with a markdown cap of 1 Trillion INR. It started as Foodiebay, a restaurant recommendation product, at its peak, it had 35000 menus and Rs 60 Lakh monthly revenue. Foodiebay.com reroutes to zomato.com now. Zomato Kitchens under the banner of Zomato Infrastructure Services provides cloud kitchens to the best and most reliable restaurants only. It provides kitchen equipment, tech stack, POS, delivery, and tracking systems.
 Project Objective
 ⚫ The project aims to understand the cuisine, average ratings, and online delivery process of restaurants in 15 different countries by year, month, and quarter.
 
@@ -24,12 +24,18 @@ Breakdown of this Project
 ◾ Find the Numbers of Restaurants based on City and Country.
 ◾ Numbers of restaurants opening based on Year, Quarter, Month
 ◾ Count of Restaurants based on Average Ratings
-◾ Create buckets based on Average Price of reasonable size and find out how many restaurants fall in each bucket
+◾ Create buckets based on Average Prices of reasonable size and find out how many restaurants fall in each bucket
 ◾ Percentage of Restaurants based on "Has_Table_booking"
 ◾ Percentage of Restaurants based on "Has_Online_delivery"
-◾ Develop Charts based on Cusines, Cities, Ratings, and many more.
+◾ Develop Charts based on cuisines, Cities, Ratings, and many more.
 
 I divide the dashboard into 3 different categories
 1. Key insights
 2. Cuisine
 3. Restaurant info
+
+Dashboard link is provide Below:
+https://www.novypro.com/project/market-and-research-analyst---zomato-power-bi 
+
+
+
